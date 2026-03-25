@@ -1,8 +1,9 @@
 import Link from "next/link";
 import Image from "next/image";
-import { ArrowRight, MapPin, Quote } from "lucide-react";
+import { ArrowRight, MapPin } from "lucide-react";
 import SkillBadge from "@/components/SkillBadge";
 
+/* Testimonials — hidden until quotes confirmed
 const testimonials = [
   {
     quote:
@@ -20,6 +21,7 @@ const testimonials = [
     company: "CCC Intelligent Solutions",
   },
 ];
+*/
 
 const skills = [
   "Python",
