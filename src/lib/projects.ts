@@ -30,8 +30,8 @@ export const projects: Project[] = [
     image: "/images/jira_logo.png",
     heroImage: "/images/jira_velocity_demo.png",
     techStack: ["Python", "Tableau"],
-    github: "https://github.com",
-    useCaseDoc: "/documents/churn-use-case.pdf",
+    github: "https://github.com/jluczak18/WorkExamples/blob/main/sprint_summary.py",
+    // useCaseDoc: "/documents/churn-use-case.pdf",
     sections: {
       overview:
         "By building our own reporting solution on JIRA we got visibility into performance improvements and bottlenecks.",
@@ -53,8 +53,8 @@ export const projects: Project[] = [
     image: "/images/jira_logo.png",
     heroImage: "/images/release-notes-hero.png",
     techStack: ["Python", "HTML", "CSS", "JavaScript", "Github"],
-    github: "https://example.com",
-    useCaseDoc: "/documents/nlbi-use-case.pdf",
+    // github: "https://example.com",
+    // useCaseDoc: "/documents/nlbi-use-case.pdf",
     sections: {
       overview:
         "Weekly email that provides details of what was deployed and what was upcoming the following week for visibility to business",
@@ -76,8 +76,8 @@ export const projects: Project[] = [
     image: "/images/jira_logo.png",
     heroImage: "/images/sprint-showcase-demo.png",
     techStack: ["Python", "MicrosoftGraph"],
-    github: "example.com",
-    useCaseDoc: "",
+    github: "https://github.com/jluczak18/WorkExamples/blob/main/sprint_review.py",
+    // useCaseDoc: "",
     sections: {
       overview: 
         "Built an automated process that runs every other Tuesday to produces a formatted PowerPoint deck with details of all work completed in the sprint.",

@@ -3,7 +3,7 @@ import { MapPin, Briefcase, GraduationCap, Award } from "lucide-react";
 import Timeline from "@/components/Timeline";
 
 export const metadata = {
-  title: "About | JLucz",
+  title: "About | JLuczak",
   description: "Learn about my background in data analytics, product management, and AI product development.",
 };
 
