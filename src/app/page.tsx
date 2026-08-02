@@ -91,7 +91,7 @@ export default function Home() {
             </div>
             <div className="text-center">
               <h2 className="text-xl font-bold mb-1">Jeff Luczak</h2>
-              <p className="text-muted text-sm mb-3">Associate Manager, Product Owner · CCC Intelligent Solutions</p>
+              <p className="text-muted text-sm mb-3">Senior Product Manager · CCC Intelligent Solutions</p>
               <div className="flex items-center justify-center gap-1 text-sm text-muted">
                 <MapPin size={14} />
                 <span>Chicago, IL</span>

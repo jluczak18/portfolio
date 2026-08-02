@@ -7,7 +7,19 @@ interface TimelineItem {
 
 const experiences: TimelineItem[] = [
   {
-    year: "2024 — Present",
+    year: "2026 — Present",
+    title: "Senior Product Manager",
+    company: "CCC Intelligent Solutions",
+    description: [
+      "Own the vision and roadmap for assisted analytics products that use AI to surface relevant insights directly to users, removing the need to dig through dashboards or run manual analysis.",
+      "Conduct ongoing customer research and stakeholder interviews to uncover workflow pain points and validate which insights matter most, translating findings into a prioritized product roadmap.",
+      "Define technical requirements, PRDs, and acceptance criteria for AI-driven insight surfacing capabilities, partnering closely with engineering and data science to balance model capability with usability.",
+      "Champion a design philosophy of proactive, in-context insights over self-serve exploration, driving adoption among non-technical users and reducing time-to-insight.",
+      "Partner with engineering, data, and security teams to ensure AI-generated insights are accurate, explainable, and aligned with enterprise standards for data governance and responsible AI.",
+    ],
+  },
+  {
+    year: "2024 — 2026",
     title: "Associate Manager, Product Owner",
     company: "CCC Intelligent Solutions",
     description: [
